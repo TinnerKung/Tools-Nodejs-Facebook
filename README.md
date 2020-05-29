@@ -12,7 +12,7 @@
   
 # How To Install Termux
  
- git clone https://github.com/PernYrenCraft/NodeJS-FB-Tools.git
+ git clone https://github.com/TinnerKung/Tools-Nodejs-Facebook.git
  
  pkg install nodejs
  
@@ -22,7 +22,7 @@
  
 # How To Install Linux
  
- git clone https://github.com/PernYrenCraft/NodeJS-FB-Tools.git
+ git clone https://github.com/TinnerKung/Tools-Nodejs-Facebook.git
  
  sudo get-apt install nodejs
  
@@ -32,11 +32,11 @@
 
 # How To Install Windows
  
- https://github.com/PernYrenCraft/NodeJS-FB-Tools.git
+ https://github.com/TinnerKung/Tools-Nodejs-Facebook.git
  
 โหลด NodeJS https://nodejs.org/en/
  
-สร้างไฟร์ [ชื่อ].bat แล้วเขียนคำสั่งข้างในไฟร์ว่า ( node TinToolNotSRC.js )
+สร้างไฟร์ [ชื่อ].bat แล้วเขียนคำสั่งข้างในไฟร์ว่า ( node index.js )
  
  npm install request
  
